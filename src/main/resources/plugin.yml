@@ -1,0 +1,9 @@
+name: Bazooka
+version: ${project.version}
+main: me.azlaaz.bazooka.Bazooka
+api-version: 1.16
+authors: [ AzlaazTR ]
+description: Rocket Launcher for fun.
+commands:
+  roketatar:
+    description: r0cket Launcher.
